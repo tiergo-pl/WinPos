@@ -16,5 +16,6 @@ for winHandle in windowsList:
         winHandle), win32gui.GetClientRect(winHandle), win32gui.GetWindowPlacement(winHandle), win32api.MonitorFromWindow(winHandle))
 monitorList = win32api.EnumDisplayMonitors()
 print(monitorList)
+print('Number of monitors:', win32api.GetSystemMetrics(80))
 for monitor in list(monitorList):
     print('Monitor info:', win32api.GetMonitorInfo(monitor[0]))
