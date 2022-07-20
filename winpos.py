@@ -1,20 +1,20 @@
 
 import win32gui
+import win32api
 
-
-def winEnumHandler(hwnd, ctx):
-    if win32gui.IsWindowVisible(hwnd):
-        print(hex(hwnd), win32gui.GetWindowText(hwnd), "| Class:",win32gui.GetClassName(hwnd), win32gui.GetClientRect(hwnd), win32gui.GetWindowPlacement(hwnd))
 
 def addWindowHandleToList(hwnd, wndList: list):
     if win32gui.IsWindowVisible(hwnd):
         wndList.append(hwnd)
 
 
-win32gui.EnumWindows(winEnumHandler, None)
 print('--------------------------------------------------')
 windowsList = []
-win32gui.EnumWindows(addWindowHandleToList,windowsList)
+win32gui.EnumWindows(addWindowHandleToList, windowsList)
 for winHandle in windowsList:
     print(hex(winHandle), win32gui.GetWindowText(winHandle), "| Class:", win32gui.GetClassName(
-        winHandle), win32gui.GetClientRect(winHandle), win32gui.GetWindowPlacement(winHandle))
+        winHandle), win32gui.GetClientRect(winHandle), win32gui.GetWindowPlacement(winHandle), win32api.MonitorFromWindow(winHandle))
+monitorList = win32api.EnumDisplayMonitors()
+print(monitorList)
+for monitor in list(monitorList):
+    print('Monitor info:', win32api.GetMonitorInfo(monitor[0]))
