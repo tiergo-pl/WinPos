@@ -1,0 +1,257 @@
+[(<PyHANDLE:65594>, <PyHANDLE:0>, (0, 0, 1920, 1080)), (<PyHANDLE:131073>, <PyHANDLE:0>, (1920, 0, 3840, 1080))]
+Number of monitors: 2
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (1920, 0, 3840, 1080), 'Work': (1920, 0, 3840, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY2'}
+
+--------------------------------------------------
+0x100ce  | Class: CursorVisualClass (0, 0, 16, 44) (0, 1, (-1, -1), (-1, -1), (390, 953, 406, 997)) <PyHANDLE:65594>
+0x201be  | Class: Shell_TrayWnd (0, 0, 1920, 40) (0, 1, (0, 0), (0, 0), (0, 1040, 1920, 1080)) <PyHANDLE:65594>
+0x130c9e  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (1920, 1040, 3840, 1080)) <PyHANDLE:131073>
+0x1a089e winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (448, 156, 1472, 924)) <PyHANDLE:65594>
+0x6046c Kozuszek, Lukasz (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 960, 1040) (0, 1, (-1, -1), (-1, -1), (0, 0, 959, 1039)) <PyHANDLE:65594>
+0x105b6 Inbox - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 958, 1038) (0, 1, (-1, -1), (-1, -1), (733, 282, 1711, 1009)) <PyHANDLE:65594>
+0x40b72  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (952, 1040, 1928, 1048)) <PyHANDLE:65594>
+0x2e0944  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (1920, -8, 1928, 1048)) <PyHANDLE:131073>
+0x20b7e  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (952, -8, 960, 1048)) <PyHANDLE:65594>
+0x20b20  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (952, -8, 1928, 0)) None
+0x48096e UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (2530, 65, 3826, 1040)) <PyHANDLE:131073>
+0x508c8 File Explorer | Class: CabinetWClass (0, 0, 1920, 1048) (2, 3, (-32000, -32000), (-1, -1), (95, 50, 1383, 773)) <PyHANDLE:65594>
+0x209a4 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (704, 243, 1920, 943)) <PyHANDLE:65594>
+0x40cf0  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:65594>
+0x5f0bcc  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (1920, 0, 3840, 1040)) <PyHANDLE:131073>
+0x13045a 1 notification — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (4, 4, 1300, 979)) <PyHANDLE:65594>
+0x10790 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (0, 39, 1279, 733)) <PyHANDLE:65594>
+0x4c0574 keywords.robot - jk - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (0, 118, 1024, 886)) <PyHANDLE:65594>
+0x20a6c Windows PowerShell | Class: CASCADIA_HOSTING_WINDOW_CLASS (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (227, 377, 1356, 1012)) <PyHANDLE:65594>
+0x30698 Cisco AnyConnect Secure Mobility Client | Class: #32770 (0, 0, 409, 159) (0, 1, (-1, -1), (-1, -1), (748, 441, 1173, 639)) <PyHANDLE:65594>
+0xa04bc Software Center | Class: HwndWrapper[SCClient.exe;;b2c398b7-dd8b-4f02-baf7-acf610d30c64] (0, 0, 1504, 911) (0, 1, (-1, -1), (-1, -1), (200, 45, 1720, 995)) <PyHANDLE:65594>
+0x3003e Microsoft Text Input Application | Class: Windows.UI.Core.CoreWindow (0, 0, 1920, 1080) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1080)) <PyHANDLE:65594>
+0x180c62  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (15, 0, 1920, 4)) <PyHANDLE:65594>
+0xe0b90  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (1935, 0, 3840, 4)) <PyHANDLE:131073>
+0x10282  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:65594>
+0x10252  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:65594>
+0x10250  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:65594>
+0x10404 PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;2d47c607-f0cb-4d88-8b63-4770bebc3f33] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (0, 0, 1920, 1080)) <PyHANDLE:65594>
+0x106c6 Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (160, 70, 1760, 970)) <PyHANDLE:65594>
+0x550adc  | Class: WorkerW (0, 0, 3840, 1080) (0, 1, (-1, -1), (-1, -1), (0, 0, 3840, 1080)) <PyHANDLE:65594>
+0x210b86  | Class: WorkerW (0, 0, 3840, 1080) (0, 1, (-1, -1), (-1, -1), (0, 0, 3840, 1080)) <PyHANDLE:65594>
+0x10226 Program Manager | Class: Progman (0, 0, 3840, 1080) (0, 1, (-1, -1), (-1, -1), (0, 0, 3840, 1080)) <PyHANDLE:65594>
+[(<PyHANDLE:65594>, <PyHANDLE:0>, (0, 0, 1920, 1080)), (<PyHANDLE:131073>, <PyHANDLE:0>, (1920, 0, 3840, 1080))]
+Number of monitors: 2
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (1920, 0, 3840, 1080), 'Work': (1920, 0, 3840, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY2'}
+
+--------------------------------------------------
+0x100ce  | Class: CursorVisualClass (0, 0, 16, 44) (0, 1, (-1, -1), (-1, -1), (-1530, 951, -1514, 995)) <PyHANDLE:5835355>
+0x201be  | Class: Shell_TrayWnd (0, 0, 1920, 40) (0, 1, (0, 0), (0, 0), (0, 1040, 1920, 1080)) <PyHANDLE:45288599>
+0x407ea  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (1920, 1040, 3840, 1080)) <PyHANDLE:134480603>
+0x80e00  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (-1920, 1040, 0, 1080)) <PyHANDLE:5835355>
+0x1a089e winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (0, 156, 1024, 924)) <PyHANDLE:5835355>
+0x204ba Chat | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 957, 1038) (0, 1, (-1, -1), (-1, -1), (-1920, 0, -963, 1038)) <PyHANDLE:5835355>
+0x48096e UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-32000, -32000), (-1, -1), (2530, 65, 3826, 1040)) <PyHANDLE:134480603>
+0x105b6 Inbox - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 976, 725) (0, 1, (-32000, -32000), (-1, -1), (-1187, 293, -209, 1020)) <PyHANDLE:5835355>
+0x80c9a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 994, 8) (0, 1, (-1, -1), (-1, -1), (-1195, 1020, -201, 1028)) <PyHANDLE:5835355>
+0x43044c  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 743) (0, 1, (-1, -1), (-1, -1), (-209, 285, -201, 1028)) <PyHANDLE:5835355>
+0x1d05ee  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 743) (0, 1, (-1, -1), (-1, -1), (-1195, 285, -1187, 1028)) <PyHANDLE:5835355>
+0x280b8c  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 994, 8) (0, 1, (-1, -1), (-1, -1), (-1195, 285, -201, 293)) <PyHANDLE:5835355>
+0x604a6 Kozuszek, Lukasz (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (454, 64, 1785, 896)) <PyHANDLE:45288599>
+0x209a4 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (-1216, 243, 0, 943)) <PyHANDLE:5835355>
+0x50d7c Sound | Class: #32770 (0, 0, 398, 423) (0, 1, (-1, -1), (-1, -1), (-1868, 52, -1454, 514)) <PyHANDLE:5835355>
+0xd0cc4  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (-1920, 0, 0, 1040)) <PyHANDLE:5835355>
+0x90c5e  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (1920, 0, 3840, 1040)) <PyHANDLE:134480603>
+0x10d10  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:45288599>
+0x10790 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (-1920, 39, -641, 733)) <PyHANDLE:5835355>
+0x3003e Microsoft Text Input Application | Class: Windows.UI.Core.CoreWindow (0, 0, 1920, 1080) (0, 1, (-1, -1), (-1, -1), (-1920, 0, 0, 1080)) <PyHANDLE:5835355>
+0x204be  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (1935, 0, 3840, 4)) <PyHANDLE:134480603>
+0x204a8  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (-1905, 0, 0, 4)) <PyHANDLE:5835355>
+0x10d2a  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (15, 0, 1920, 4)) <PyHANDLE:45288599>
+0x10282  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:45288599>
+0x10252  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:45288599>
+0x10250  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:45288599>
+0x10404 PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;2d47c607-f0cb-4d88-8b63-4770bebc3f33] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (-1920, 0, 0, 1080)) <PyHANDLE:5835355>      
+0x106c6 Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (-1760, 70, -160, 970)) <PyHANDLE:5835355>
+0x4c0574 keywords.robot - jk - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 160, 28) (2, 2, (-32000, -32000), (-1, -1), (-1920, 118, -896, 886)) <PyHANDLE:5835355>
+0xa04bc Software Center | Class: HwndWrapper[SCClient.exe;;b2c398b7-dd8b-4f02-baf7-acf610d30c64] (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-1720, 45, -200, 995)) <PyHANDLE:5835355>
+0x20a6c Windows PowerShell | Class: CASCADIA_HOSTING_WINDOW_CLASS (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (-1693, 377, -564, 1012)) <PyHANDLE:5835355>
+0x508c8 File Explorer | Class: CabinetWClass (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (-1825, 50, -537, 773)) <PyHANDLE:5835355>
+0x13045a Telegram — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (-1916, 4, -620, 979)) <PyHANDLE:5835355>
+0x550adc  | Class: WorkerW (0, 0, 5760, 1080) (0, 1, (-1, -1), (-1, -1), (-1920, 0, 3840, 1080)) <PyHANDLE:45288599>
+0x210b86  | Class: WorkerW (0, 0, 5760, 1080) (0, 1, (-1, -1), (-1, -1), (-1920, 0, 3840, 1080)) <PyHANDLE:45288599>
+0x10226 Program Manager | Class: Progman (0, 0, 5760, 1080) (0, 1, (-1, -1), (-1, -1), (-1920, 0, 3840, 1080)) <PyHANDLE:45288599>
+[(<PyHANDLE:5835355>, <PyHANDLE:0>, (-1920, 0, 0, 1080)), (<PyHANDLE:45288599>, <PyHANDLE:0>, (0, 0, 1920, 1080)), (<PyHANDLE:134480603>, <PyHANDLE:0>, (1920, 0, 3840, 1080))]
+Number of monitors: 3
+Monitor info: {'Monitor': (-1920, 0, 0, 1080), 'Work': (-1920, 0, 0, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY2'}
+Monitor info: {'Monitor': (1920, 0, 3840, 1080), 'Work': (1920, 0, 3840, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY3'}
+
+--------------------------------------------------
+0x2003c  | Class: CursorVisualClass (0, 0, 16, 44) (0, 1, (-1, -1), (-1, -1), (80, 998, 96, 1042)) <PyHANDLE:152571643>
+0x80922  | Class: Shell_SecondaryTrayWnd (0, 0, 1280, 40) (0, 1, (-1, -1), (-1, -1), (-1280, 1034, 0, 1074)) <PyHANDLE:6488789> 
+0x10114  | Class: Shell_TrayWnd (0, 0, 1920, 40) (0, 1, (0, 0), (0, 0), (0, 1040, 1920, 1080)) <PyHANDLE:152571643>
+0x80966  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (-3200, 1040, -1280, 1080)) <PyHANDLE:8195539>
+0x1e097c winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-1152, 178, -128, 946)) <PyHANDLE:6488789>
+0x1107f0 CB007333-B-s_keywords.robot - CB007333 - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-1288, 156, -264, 924)) <PyHANDLE:6488789>
+0xf095c MonitorInfoView | Class: MonitorInfoView (0, 0, 1372, 787) (0, 1, (-1, -1), (-1, -1), (250, 70, 1638, 916)) <PyHANDLE:152571643>
+0x10568 Cisco AnyConnect Secure Mobility Client | Class: #32770 (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-2452, 441, -2027, 639)) <PyHANDLE:8195539>
+0x30556 Freeware Tools and System Utilities for Windows — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, 
+(-32000, -32000), (-1, -1), (747, 286, 1401, 741)) <PyHANDLE:152571643>
+0x206a6 Inbox - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 958, 1038) (0, 1, (-32000, -32000), (-1, -1), (-3200, 0, -2562, 440)) <PyHANDLE:8195539>
+0x120a32  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (-2248, 1040, -1272, 1048)) <PyHANDLE:8195539>
+0x1c0f4a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (-1280, -8, -1272, 1048)) <PyHANDLE:6488789>
+0x1f0a2e  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (-2248, -8, -2240, 1048)) <PyHANDLE:8195539>
+0xa093a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (-2248, -8, -1272, 0)) None
+0xf0fca monitorinfoview | Class: CabinetWClass (0, 0, 1389, 918) (2, 1, (-1, -1), (-1, -1), (-3164, 54, -1759, 980)) <PyHANDLE:8195539>
+0x402de Malczyk, Maciej (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (-3150, 30, -2198, 1009)) <PyHANDLE:8195539>
+0x1006e0  | Class: ApplicationFrameWindow (0, 0, 1264, 976) (0, 1, (-1, -1), (-1, -1), (-1280, 50, 0, 1034)) <PyHANDLE:6488789> 
+0x421076  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:152571643>0x270670 Settings | Class: Windows.UI.Core.CoreWindow (0, 0, 1200, 691) (0, 1, (-1, -1), (-1, -1), (0, 1, 1200, 692)) <PyHANDLE:152571643>
+0xd0206 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (-3093, 77, -1877, 777)) <PyHANDLE:8195539>
+0x5e06f0  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (-3200, 0, -1280, 1040)) <PyHANDLE:8195539>
+0x90974  | Class: ApplicationFrameWindow (0, 0, 1280, 1032) (0, 1, (-1, -1), (-1, -1), (-1288, 42, 8, 1082)) <PyHANDLE:6488789> 
+0xa021e  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:152571643> 
+0x207f8 VNC Viewer | Class: os::Window::Dialog (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-3108, 229, -2208, 869)) <PyHANDLE:8195539>
+0xb105e conf_7742_not_working.xml <-> conf_7742_working.xml - KDiff3 | Class: Qt5QWindowIcon (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-3199, 1, -1281, 1039)) <PyHANDLE:8195539>
+0x2055a Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (-3040, 70, -1440, 970)) 
+<PyHANDLE:8195539>
+0x30552 NR abbreviations — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (-2819, 50, -2165, 506)) <PyHANDLE:8195539>
+0x602c8 UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (-3200, 0, -2546, 455)) <PyHANDLE:8195539>
+0x106b8  (in Application Guard) | Class: RAIL_WINDOW (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643> 
+0x10ec0 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (-3200, 0, -2562, 440)) <PyHANDLE:8195539>
+0x3036e PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;0c4627bc-ea97-429f-b87e-67d46cbce411] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (-3200, 0, -1280, 1080)) <PyHANDLE:8195539>
+0x4027e Microsoft Text Input Application | Class: Windows.UI.Core.CoreWindow (0, 0, 1920, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, -1280, 1080)) <PyHANDLE:8195539>
+0x80912  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (15, 0, 1920, 4)) <PyHANDLE:152571643>      
+0x80928  | Class: EdgeUiInputTopWndClass (0, 0, 1265, 4) (0, 1, (-1, -1), (-1, -1), (-1265, 50, 0, 54)) <PyHANDLE:6488789>      
+0x41101c  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (-3185, 0, -1280, 4)) <PyHANDLE:8195539>   
+0x1022e  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x101ee  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x101ec  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x30782  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+0x4072e  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+0x101c6 Program Manager | Class: Progman (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+[(<PyHANDLE:8195539>, <PyHANDLE:0>, (-3200, 0, -1280, 1080)), (<PyHANDLE:6488789>, <PyHANDLE:0>, (-1280, 50, 0, 1074)), (<PyHANDLE:152571643>, <PyHANDLE:0>, (0, 0, 1920, 
+1080))]
+Number of monitors: 3
+Monitor info: {'Monitor': (-3200, 0, -1280, 1080), 'Work': (-3200, 0, -1280, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (-1280, 50, 0, 1074), 'Work': (-1280, 50, 0, 1034), 'Flags': 0, 'Device': '\\\\.\\DISPLAY19'}
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY20'}
+
+
+--------------------------------------------------
+0x2003c  | Class: CursorVisualClass (0, 0, 16, 41) (0, 1, (-1, -1), (-1, -1), (1415, 83, 1431, 124)) <PyHANDLE:152571643>
+0x10114  | Class: Shell_TrayWnd (0, 0, 1920, 40) (0, 1, (0, 0), (0, 0), (0, 1040, 1920, 1080)) <PyHANDLE:152571643>
+0x80922  | Class: Shell_SecondaryTrayWnd (0, 0, 1280, 40) (0, 1, (-1, -1), (-1, -1), (-1280, 1034, 0, 1074)) <PyHANDLE:6488789>
+0x80966  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (-3200, 1040, -1280, 1080)) <PyHANDLE:8195539>
+0x1e097c winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (448, 161, 1472, 929)) <PyHANDLE:152571643>
+0x1107f0 CB007333-B-s_keywords.robot - CB007333 - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-1288, 156, -264, 924)) <PyHANDLE:6488789>
+0xf095c MonitorInfoView | Class: MonitorInfoView (0, 0, 1372, 787) (0, 1, (-1, -1), (-1, -1), (250, 70, 1638, 916)) <PyHANDLE:152571643>
+0x10568 Cisco AnyConnect Secure Mobility Client | Class: #32770 (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-2452, 441, -2027, 639)) <PyHANDLE:8195539>
+0x30556 Freeware Tools and System Utilities for Windows — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-32000, -32000), (-1, -1), (747, 286, 1401, 741)) <PyHANDLE:152571643>
+0x206a6 Inbox - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 958, 1038) (0, 1, (-32000, -32000), (-1, -1), (-3200, 0, -2562, 440)) <PyHANDLE:8195539>
+0x120a32  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (-2248, 1040, -1272, 1048)) <PyHANDLE:8195539>
+0x1c0f4a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (-1280, -8, -1272, 1048)) <PyHANDLE:6488789>
+0x1f0a2e  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (-2248, -8, -2240, 1048)) <PyHANDLE:8195539>
+0xa093a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (-2248, -8, -1272, 0)) None
+0xf0fca monitorinfoview | Class: CabinetWClass (0, 0, 1389, 918) (2, 1, (-1, -1), (-1, -1), (-3164, 54, -1759, 980)) <PyHANDLE:8195539>
+0x402de Malczyk, Maciej (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (-3150, 30, -2198, 1009)) <PyHANDLE:8195539>
+0x1006e0  | Class: ApplicationFrameWindow (0, 0, 1264, 976) (0, 1, (-1, -1), (-1, -1), (-1280, 50, 0, 1034)) <PyHANDLE:6488789>
+0x421076  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:152571643>
+0x270670 Settings | Class: Windows.UI.Core.CoreWindow (0, 0, 1200, 691) (0, 1, (-1, -1), (-1, -1), (0, 1, 1200, 692)) <PyHANDLE:152571643>
+0xd0206 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (-3093, 77, -1877, 777)) <PyHANDLE:8195539>
+0x5e06f0  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (-3200, 0, -1280, 1040)) <PyHANDLE:8195539>
+0x90974  | Class: ApplicationFrameWindow (0, 0, 1280, 1032) (0, 1, (-1, -1), (-1, -1), (-1288, 42, 8, 1082)) <PyHANDLE:6488789>
+0xa021e  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:152571643>
+0x207f8 VNC Viewer | Class: os::Window::Dialog (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-3108, 229, -2208, 869)) <PyHANDLE:8195539>
+0xb105e conf_7742_not_working.xml <-> conf_7742_working.xml - KDiff3 | Class: Qt5QWindowIcon (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (-3199, 1, -1281, 1039)) <PyHANDLE:8195539>
+0x2055a Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (-3040, 70, -1440, 970)) <PyHANDLE:8195539>
+0x30552 NR abbreviations — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (-2819, 50, -2165, 506)) <PyHANDLE:8195539>
+0x602c8 UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (-3200, 0, -2546, 455)) <PyHANDLE:8195539>
+0x106b8  (in Application Guard) | Class: RAIL_WINDOW (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x10ec0 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (-3200, 0, -2562, 440)) <PyHANDLE:8195539>
+0x3036e PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;0c4627bc-ea97-429f-b87e-67d46cbce411] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (-3200, 0, -1280, 1080)) <PyHANDLE:8195539>
+0x4027e Microsoft Text Input Application | Class: Windows.UI.Core.CoreWindow (0, 0, 1920, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, -1280, 1080)) <PyHANDLE:8195539>
+0x80912  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (15, 0, 1920, 4)) <PyHANDLE:152571643>
+0x80928  | Class: EdgeUiInputTopWndClass (0, 0, 1265, 4) (0, 1, (-1, -1), (-1, -1), (-1265, 50, 0, 54)) <PyHANDLE:6488789>
+0x41101c  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (-3185, 0, -1280, 4)) <PyHANDLE:8195539>
+0x1022e  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x101ee  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x101ec  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:152571643>
+0x30782  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+0x4072e  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+0x101c6 Program Manager | Class: Progman (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:152571643>
+[(<PyHANDLE:8195539>, <PyHANDLE:0>, (-3200, 0, -1280, 1080)), (<PyHANDLE:6488789>, <PyHANDLE:0>, (-1280, 50, 0, 1074)), (<PyHANDLE:152571643>, <PyHANDLE:0>, (0, 0, 1920, 1080))]
+Number of monitors: 3
+Monitor info: {'Monitor': (-3200, 0, -1280, 1080), 'Work': (-3200, 0, -1280, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (-1280, 50, 0, 1074), 'Work': (-1280, 50, 0, 1034), 'Flags': 0, 'Device': '\\\\.\\DISPLAY19'}
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY20'}
+
+--------------------------------------------------
+0x2003c  | Class: CursorVisualClass (0, 0, 16, 43) (0, 1, (-1, -1), (-1, -1), (-1984, 618, -1968, 661)) <PyHANDLE:13372835>
+0x10114  | Class: Shell_TrayWnd (0, 0, 1920, 40) (0, 1, (0, 0), (0, 0), (0, 1040, 1920, 1080)) <PyHANDLE:8261075>
+0x171044  | Class: Shell_SecondaryTrayWnd (0, 0, 1280, 40) (0, 1, (-1, -1), (-1, -1), (-1280, 1034, 0, 1074)) <PyHANDLE:1182725>
+0xb020a  | Class: Shell_SecondaryTrayWnd (0, 0, 1920, 40) (0, 1, (-1, -1), (-1, -1), (-3200, 1040, -1280, 1080)) <PyHANDLE:13372835>
+0x1e097c winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (448, 161, 1472, 929)) <PyHANDLE:8261075>
+0x207f8 VNC Viewer | Class: os::Window::Dialog (0, 0, 884, 581) (0, 1, (-32000, -32000), (-1, -1), (284, 114, 1184, 754)) <PyHANDLE:8261075>
+0x9014a  | Class: MozillaWindowClass (0, 0, 404, 137) (0, 1, (-1, -1), (-1, -1), (1512, 76, 1916, 213)) <PyHANDLE:8261075>
+0x30552 ShowWindow function (winuser.h) - Win32 apps | Microsoft Docs — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (282, 47, 936, 503)) <PyHANDLE:8261075>
+0xd09a2  | Class: ApplicationFrameWindow (0, 0, 1264, 976) (0, 1, (-1, -1), (-1, -1), (-1280, 50, 0, 1034)) <PyHANDLE:1182725>
+0x7f0cb0  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:8261075>
+0x1107f0 CB007333-B-s_keywords.robot - CB007333 - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (0, 156, 1024, 924)) <PyHANDLE:8261075>
+0x10ec0 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (0, 0, 638, 440)) <PyHANDLE:8261075>
+0xf0fca controlmymonitor | Class: CabinetWClass (0, 0, 1389, 918) (2, 1, (-1, -1), (-1, -1), (36, 54, 1441, 980)) <PyHANDLE:8261075>
+0x10568 Cisco AnyConnect Secure Mobility Client | Class: #32770 (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (748, 441, 1173, 639)) <PyHANDLE:8261075>
+0x30556 Freeware Tools and System Utilities for Windows — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (747, 286, 1401, 741)) <PyHANDLE:8261075>
+0x206a6 Inbox - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 958, 1038) (0, 1, (-1, -1), (-1, -1), (0, 0, 638, 440)) <PyHANDLE:8261075>
+0x120a32  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (952, 1040, 1928, 1048)) <PyHANDLE:8261075>
+0x1c0f4a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (1920, -8, 1928, 1048)) None
+0x1f0a2e  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 8, 1056) (0, 1, (-1, -1), (-1, -1), (952, -8, 960, 1048)) <PyHANDLE:8261075>
+0xa093a  | Class: MSO_BORDEREFFECT_WINDOW_CLASS (0, 0, 976, 8) (0, 1, (-1, -1), (-1, -1), (952, -8, 1928, 0)) None
+0x402de Malczyk, Maciej (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (0, 30, 952, 1009)) <PyHANDLE:8261075>
+0x270670 Settings | Class: Windows.UI.Core.CoreWindow (0, 0, 1200, 691) (0, 1, (-1, -1), (-1, -1), (0, 1, 1200, 692)) <PyHANDLE:8261075>
+0xd0206 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (107, 77, 1323, 777)) <PyHANDLE:8261075>
+0x5e06f0  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (-3200, 0, -1280, 1040)) <PyHANDLE:13372835>
+0x90974  | Class: ApplicationFrameWindow (0, 0, 1920, 1088) (0, 1, (-1, -1), (-1, -1), (-8, -8, 1928, 1088)) <PyHANDLE:8261075>
+0xa021e  | Class: ApplicationFrameWindow (0, 0, 1904, 1032) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1040)) <PyHANDLE:8261075>
+0x2055a Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (160, 70, 1760, 970)) <PyHANDLE:8261075>
+0x602c8 UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 144, 1) (2, 2, (-32000, -32000), (-1, -1), (0, 0, 654, 455)) <PyHANDLE:8261075>
+0xf095c MonitorInfoView | Class: MonitorInfoView (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (250, 70, 1638, 916)) <PyHANDLE:8261075>
+0xb105e conf_7742_not_working.xml <-> conf_7742_working.xml - KDiff3 | Class: Qt5QWindowIcon (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (1, 1, 1919, 1039)) <PyHANDLE:8261075>
+0x106b8  (in Application Guard) | Class: RAIL_WINDOW (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:8261075>
+0x3036e PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;0c4627bc-ea97-429f-b87e-67d46cbce411] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (0, 0, 1920, 1080)) <PyHANDLE:8261075>
+0x4027e Microsoft Text Input Application | Class: Windows.UI.Core.CoreWindow (0, 0, 1920, 1080) (0, 1, (-1, -1), (-1, -1), (0, 0, 1920, 1080)) <PyHANDLE:8261075>
+0x41101c  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (-3185, 0, -1280, 4)) <PyHANDLE:13372835>
+0xc091a  | Class: EdgeUiInputTopWndClass (0, 0, 1905, 4) (0, 1, (-1, -1), (-1, -1), (15, 0, 1920, 4)) <PyHANDLE:8261075>
+0x90966  | Class: EdgeUiInputTopWndClass (0, 0, 1265, 4) (0, 1, (-1, -1), (-1, -1), (-1265, 50, 0, 54)) <PyHANDLE:1182725>
+0x1022e  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:8261075>
+0x101ee  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:8261075>
+0x101ec  | Class: DummyDWMListenerWindow (0, 0, 0, 0) (0, 1, (-1, -1), (-1, -1), (0, 0, 0, 0)) <PyHANDLE:8261075>
+0x30782  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:8261075>
+0x4072e  | Class: WorkerW (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:8261075>
+0x101c6 Program Manager | Class: Progman (0, 0, 5120, 1080) (0, 1, (-1, -1), (-1, -1), (-3200, 0, 1920, 1080)) <PyHANDLE:8261075>
+[(<PyHANDLE:13372835>, <PyHANDLE:0>, (-3200, 0, -1280, 1080)), (<PyHANDLE:1182725>, <PyHANDLE:0>, (-1280, 50, 0, 1074)), (<PyHANDLE:8261075>, <PyHANDLE:0>, (0, 0, 1920, 1080))]
+Number of monitors: 3
+Monitor info: {'Monitor': (-3200, 0, -1280, 1080), 'Work': (-3200, 0, -1280, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY1'}
+Monitor info: {'Monitor': (-1280, 50, 0, 1074), 'Work': (-1280, 50, 0, 1034), 'Flags': 0, 'Device': '\\\\.\\DISPLAY21'}
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY22'}
+
+0x1e097c winpos.py - WinPos - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (481, 106, 1505, 874)) <PyHANDLE:8261075>
+0xf095c MonitorInfoView | Class: MonitorInfoView (0, 0, 1372, 787) (0, 1, (-32000, -32000), (-1, -1), (305, 95, 1693, 941)) <PyHANDLE:8261075>
+0x20091c WinLister | Class: WinListerMain (0, 0, 860, 531) (0, 1, (-32000, -32000), (-1, -1), (-1204, 249, -328, 839)) <PyHANDLE:1182725>
+0xc105e conf_7742_not_working.xml <-> conf_7742_working.xml - KDiff3 | Class: Qt5QWindowIcon (0, 0, 1902, 999) (0, 1, (-32000, -32000), (-1, -1), (9, 9, 1927, 1047)) <PyHANDLE:8261075>
+0x10568 Cisco AnyConnect Secure Mobility Client | Class: #32770 (0, 0, 409, 159) (0, 1, (-1, -1), (-1, -1), (1247, 766, 1672, 964)) <PyHANDLE:8261075>
+0x402de Kozuszek, Lukasz (Nokia - PL/Krakow) | Microsoft Teams | Class: Chrome_WidgetWin_1 (0, 0, 960, 1040) (0, 1, (-1, -1), (-1, -1), (-3200, 30, -2248, 1009)) <PyHANDLE:250220113>
+0x206a6 Calendar - jakub.kowalczyk@nokia.com - Outlook | Class: rctrl_renwnd32 (0, 0, 958, 1038) (0, 1, (-32000, -32000), (-1, -1), (-3200, 0, -2562, 440)) <PyHANDLE:250220113>
+0x602c8 UTE CLOUD — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1920, 1040) (2, 3, (-1, -1), (-1, -1), (0, 0, 654, 455)) <PyHANDLE:8261075>
+0x1107f0 CB007333-B-s_keywords.robot - CB007333 - Visual Studio Code | Class: Chrome_WidgetWin_1 (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-1280, 100, -256, 942)) <PyHANDLE:1182725>
+0x30552 python - How to check if the string is empty? - Stack Overflow — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-1141, 92, -487, 548)) <PyHANDLE:1182725>
+0x30556 Freeware Tools and System Utilities for Windows — Mozilla Firefox | Class: MozillaWindowClass (0, 0, 1280, 984) (2, 3, (-1, -1), (-1, -1), (-911, 309, -257, 764)) <PyHANDLE:1182725>
+0xf0fca winlister-x64 | Class: CabinetWClass (0, 0, 1389, 918) (0, 1, (-1, -1), (-1, -1), (36, 54, 1441, 980)) <PyHANDLE:8261075>
+0x207f8 VNC Viewer | Class: os::Window::Dialog (0, 0, 0, 0) (0, 2, (-32000, -32000), (-1, -1), (284, 114, 1184, 754)) <PyHANDLE:8261075>
+0x10ec0 Testlinia - OneNote | Class: Framework::CFrame (0, 0, 0, 0) (2, 2, (-32000, -32000), (-1, -1), (0, 0, 638, 440)) <PyHANDLE:8261075>
+0x2055a Spotify Premium | Class: Chrome_WidgetWin_0 (0, 0, 160, 28) (0, 2, (-32000, -32000), (-1, -1), (160, 70, 1760, 970)) <PyHANDLE:8261075>
+0x3e1036 Settings | Class: ApplicationFrameWindow (0, 0, 1200, 692) (0, 1, (-1, -1), (-1, -1), (107, 77, 1323, 777)) <PyHANDLE:8261075>
+0x3036e PowerWidget | Class: HwndWrapper[DefaultDomain;Pipeline Execution Thread;0c4627bc-ea97-429f-b87e-67d46cbce411] (0, 0, 1920, 1080) (2, 3, (-1, -1), (-1, -1), (0, 0, 1920, 1080)) <PyHANDLE:8261075>
+[(<PyHANDLE:1182725>, <PyHANDLE:0>, (-1280, 50, 0, 1074)), (<PyHANDLE:8261075>, <PyHANDLE:0>, (0, 0, 1920, 1080)), (<PyHANDLE:250220113>, <PyHANDLE:0>, (-3200, 0, -1280, 1080))]
+Number of monitors: 3
+Monitor info: {'Monitor': (-1280, 50, 0, 1074), 'Work': (-1280, 50, 0, 1034), 'Flags': 0, 'Device': '\\\\.\\DISPLAY21'}
+Monitor info: {'Monitor': (0, 0, 1920, 1080), 'Work': (0, 0, 1920, 1040), 'Flags': 1, 'Device': '\\\\.\\DISPLAY22'}
+Monitor info: {'Monitor': (-3200, 0, -1280, 1080), 'Work': (-3200, 0, -1280, 1040), 'Flags': 0, 'Device': '\\\\.\\DISPLAY1'}
+
