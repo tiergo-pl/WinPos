@@ -1,6 +1,7 @@
 import ast
 import atexit
 import json
+import yaml
 from time import sleep
 import win32gui
 import win32api
@@ -52,6 +53,7 @@ def retrieveWindowPosition(windowHandle, windowPlacement):
 atexit.register(exit_handler)
 
 filename = 'backToMon.settings'
+yaml_filename = 'back_to_mon.yaml'
 file = open(filename,'r')
 windowsPos={}
 windowsPosStr = file.read()
@@ -67,6 +69,8 @@ while 1:
     for winHandle in windowsList:
         winPos[winHandle]= win32gui.GetWindowPlacement(winHandle)
     windowsPos.update({monitorCount: winPos})
+    with open(yaml_filename,'w') as yaml_file:
+        yaml.dump(windowsPos, yaml_file)
     print("Number of monitors", monitorCount)
     print(windowsPos)
     print("-----------------------------------------------------------")

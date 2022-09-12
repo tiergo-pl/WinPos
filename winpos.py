@@ -26,8 +26,8 @@ def addWindowHandleToList(hwnd, wndList: list):
 
 
 def retrieveWindowPosition():
-    windowHandle = 0xf095c
-    windowPlacement = (0, 1, (-32000, -32000), (-1, -1), (305, 95, 1693, 941))
+    windowHandle = 0x1113a2
+    windowPlacement = (0, 1, (-1, -1), (-1, -1), (-601, 164, -142, 626))
     win32gui.ShowWindow(windowHandle, 1)
     win32gui.SetWindowPlacement(windowHandle, windowPlacement)
 
