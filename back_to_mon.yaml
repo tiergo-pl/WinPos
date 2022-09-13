@@ -1,1333 +1,414 @@
-1:
-  66920: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1321
-    - 655
-    - 1746
-    - 853
-  69312: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 3
+monitorCount: 2
+desktop_resolution:
+  width: 3200
+  height: 1080
+windows_positions:
+  66326:
+    window_title: vksts
+    window_class: '{9465C08C-3620-42aa-9E7A-7358EB974A4D}'
+    window_placement:
+    - 0
     - 1
-    - 1281
-    - 1023
-  71826: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 755
-    - 449
-    - 1181
-    - 654
-  132774: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1590
-    - 180
-    - 2228
-    - 620
-  133112: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 581
-    - 270
-    - 1481
-    - 910
-  197486: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 0
-    - 1920
-    - 1080
-  197970: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 116
-    - 41
-    - 770
-    - 497
-  197974: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 306
-    - 250
-    - 960
-    - 705
-  199656: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 702
-    - 114
-    - 1678
-    - 921
-  262878: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -3195
-    - 6
-    - -2244
-    - 984
-  393928: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 0
-    - 654
-    - 455
-  461542: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 102
-    - 82
-    - 1052
-    - 895
-  526822: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 191
-    - 1024
-    - 959
-  660216: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 475
-    - 101
-    - 1451
-    - 908
-  724188: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 494
-    - 0
-    - 1439
-    - 1020
-  921694: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -8
-    - -8
-    - 1928
-    - 1047
-  987082: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 198
-    - 41
-    - 1135
-    - 967
-  1051932: !!python/tuple
-  - 2
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -8
-    - -8
-    - 855
-    - 974
-  1115176: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 475
-    - 101
-    - 1451
-    - 908
-  1116144: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 122
-    - 1024
-    - 964
-  1378944: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -7
-    - 57
-    - 1287
-    - 983
-  1380742: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 504
-    - 10
-    - 1449
-    - 1030
-  1511968: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 195
-    - 39
-    - 1132
-    - 965
-  1577680: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 95
-    - 50
-    - 1383
-    - 773
-  1642744: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 641
-    - 44
-    - 1897
-    - 1091
-  1708440: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 44
-    - 52
-    - 1173
-    - 687
-  1773826: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 448
-    - 156
-    - 1472
-    - 924
-  1839698: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 969
-    - 19
-    - 1899
-    - 654
-  2101748: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 134
-    - 62
-    - 468
-    - 206
-  2166142: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 234
-    - 0
-    - 1171
-    - 926
-  4067382: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 111
-    - 38
-    - 1327
-    - 738
-  9112752: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 448
-    - 161
-    - 1472
-    - 929
-  10425266: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1117
-    - -8
-    - 1920
-    - 1032
-2:
-  66326: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-    - -1
-    - -1
-  200706: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 222
-    - 110
-    - 1361
-    - 865
-  201858: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 497
-    - 108
-    - 1636
-    - 863
-  262866: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 47
-    - 36
-    - 1263
-    - 977
-  264564: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 0
-    - 1280
-    - 1024
-  394108: !!python/tuple
-  - 2
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1280
-    - 46
-    - -306
-    - 1046
-  658310: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 260
-    - 244
-    - 1292
-    - 1012
-  723728: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1280
-    - 54
-    - 0
-    - 1038
-  853192: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1219
-    - 270
-    - -116
-    - 974
-  924088: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 448
-    - 156
-    - 1472
-    - 924
-  985182: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -999
-    - 373
-    - -383
-    - 829
-  985876: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1157
-    - 178
-    - -54
-    - 882
-  1117656: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -7
-    - 0
-    - 1287
-    - 908
-  1119138: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -601
-    - 164
-    - -142
-    - 626
-  1312342: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1272
-    - 54
-    - 8
-    - 1023
-  1379204: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1280
-    - 174
-    - -324
-    - 1028
-  2494602: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1131
-    - 204
-    - -28
-    - 908
-  3477722: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 510
-    - 200
-    - 1410
-    - 840
-  3936222: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 824
-    - 263
-    - 1927
-    - 967
-  4853108: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1243
-    - 123
-    - -52
-    - 925
-  6493398: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1180
-    - 117
-    - -51
-    - 752
-  7274920: !!python/tuple
-  - 2
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 596
-    - -17
-    - 1430
-    - 1007
-  8325498: !!python/tuple
-  - 2
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1280
-    - 54
-    - 0
-    - 1038
-  44306330: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 237
-    - 115
-    - 1366
-    - 750
-  118100744: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1280
-    - 54
-    - 0
-    - 1038
-  176427734: !!python/tuple
-  - 0
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 0
-    - 0
-    - 669
-    - 668
-  241241372: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1312
-    - 104
-    - 1928
-    - 560
-3:
-  66582: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1612
-    - 904
-    - 1913
-    - 1032
-  66920: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 748
-    - 441
-    - 1173
-    - 639
-  69312: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1
+      - -1
+      - -1
+      - -1
+  924088:
+    window_title: backToMon.py - WinPos - Visual Studio Code
+    window_class: Chrome_WidgetWin_1
+    window_placement:
+    - 2
     - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 448
+      - 156
+      - 1472
+      - 924
+  118100744:
+    window_title: "python - Can PyYAML dump dict items in non-alphabetical order?\
+      \ - Stack Overflow \u2014 Mozilla Firefox"
+    window_class: MozillaWindowClass
+    window_placement:
+    - 2
+    - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1280
+      - 54
+      - 0
+      - 1038
+  1379204:
+    window_title: "og\xF3lne - Discord"
+    window_class: Chrome_WidgetWin_1
+    window_placement:
+    - 0
     - 1
-    - 1281
-    - 1023
-  71826: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 755
-    - 449
-    - 1181
-    - 654
-  132774: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1590
-    - 180
-    - 2228
-    - 620
-  133112: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 581
-    - 270
-    - 1481
-    - 910
-  197486: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1227
+      - 130
+      - -271
+      - 984
+  164237308:
+    window_title: Setup
+    window_class: TApplication
+    window_placement:
     - 0
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - 960
+      - 540
+      - 960
+      - 540
+  3477722:
+    window_title: VNC Viewer
+    window_class: os::Window::Dialog
+    window_placement:
     - 0
-    - 1920
-    - 1080
-  197970: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 116
-    - 41
-    - 770
-    - 497
-  197974: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 306
-    - 250
-    - 960
-    - 705
-  199656: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 702
-    - 114
-    - 1678
-    - 921
-  262878: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1920
-    - 6
-    - -969
-    - 984
-  393928: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1920
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 510
+      - 200
+      - 1410
+      - 840
+  8325498:
+    window_title: "Connect Box \u2014 Mozilla Firefox"
+    window_class: MozillaWindowClass
+    window_placement:
+    - 2
+    - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1469
+      - 153
+      - -189
+      - 1137
+  44306330:
+    window_title: Windows PowerShell
+    window_class: CASCADIA_HOSTING_WINDOW_CLASS
+    window_placement:
     - 0
-    - 2574
-    - 455
-  399818: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 26
-    - 26
-    - 1019
-    - 545
-  461542: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 102
-    - 82
-    - 1052
-    - 895
-  526822: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 237
+      - 115
+      - 1366
+      - 750
+  10818062:
+    window_title: WinBox (64bit) v3.31
+    window_class: routeros_connect
+    window_placement:
     - 0
-    - 191
-    - 1024
-    - 959
-  660216: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 475
-    - 101
-    - 1451
-    - 908
-  724188: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 494
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1280
+      - 54
+      - -611
+      - 722
+  394108:
+    window_title: Double Commander 1.0.0 beta build 10; 2021/10/17
+    window_class: TTOTAL_CMD
+    window_placement:
+    - 2
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1280
+      - 46
+      - -306
+      - 1046
+  1119138:
+    window_title: "D\u017Awi\u0119k"
+    window_class: '#32770'
+    window_placement:
     - 0
-    - 1439
-    - 1020
-  921694: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -8
-    - -8
-    - 1928
-    - 1047
-  987082: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 198
-    - 41
-    - 1135
-    - 967
-  1051932: !!python/tuple
-  - 2
-  - 2
-  - !!python/tuple
-    - -32000
-    - -32000
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -8
-    - -8
-    - 855
-    - 974
-  1115176: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 475
-    - 101
-    - 1451
-    - 908
-  1116144: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -601
+      - 164
+      - -142
+      - 626
+  2494602:
+    window_title: D:\Users\JK\Documents\Dev\Python\WinPos
+    window_class: CabinetWClass
+    window_placement:
     - 0
-    - 122
-    - 1024
-    - 964
-  1378944: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -7
-    - 57
-    - 1287
-    - 983
-  1380742: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 504
-    - 10
-    - 1449
-    - 1030
-  1511968: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 195
-    - 39
-    - 1132
-    - 965
-  1577680: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 95
-    - 50
-    - 1383
-    - 773
-  1642744: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 641
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1131
+      - 204
+      - -28
+      - 908
+  241241372:
+    window_title: "Rodzice masowo odmawiaj\u0105 obowi\u0105zkowych szczepie\u0144\
+      . Pad\u0142 rekord - Wykop.pl \u2014 Mozilla Firefox"
+    window_class: MozillaWindowClass
+    window_placement:
+    - 2
+    - 3
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - 1312
+      - 104
+      - 1928
+      - 560
+  264564:
+    window_title: "JK-PC \u2013 Dysk Google - Google Chrome"
+    window_class: Chrome_WidgetWin_1
+    window_placement:
+    - 2
+    - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 0
+      - 0
+      - 1280
+      - 1024
+  985182:
+    window_title: "Odebrane - jakub.kowalczyk@op.pl \u2013 Mozilla Thunderbird"
+    window_class: MozillaWindowClass
+    window_placement:
+    - 2
+    - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -999
+      - 373
+      - -383
+      - 829
+  723728:
+    window_title: Steam
+    window_class: vguiPopupWindow
+    window_placement:
     - 0
-    - 1897
-    - 1047
-  1708440: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 44
-    - 52
-    - 1173
-    - 687
-  1773826: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 448
-    - 156
-    - 1472
-    - 924
-  1839698: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 969
-    - 19
-    - 1899
-    - 654
-  2101748: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 134
-    - 62
-    - 468
-    - 206
-  2166142: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 234
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1280
+      - 54
+      - 0
+      - 1038
+  1117656:
+    window_title: Ustawienia
+    window_class: ApplicationFrameWindow
+    window_placement:
     - 0
-    - 1171
-    - 926
-  4067382: !!python/tuple
-  - 0
-  - 1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 111
-    - 38
-    - 1327
-    - 738
-  9112752: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 448
-    - 161
-    - 1472
-    - 929
-  10425266: !!python/tuple
-  - 2
-  - 3
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - -1
-    - -1
-  - !!python/tuple
-    - 1117
-    - -8
-    - 1920
-    - 1032
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -7
+      - 0
+      - 1287
+      - 908
+  6493398:
+    window_title: Windows PowerShell
+    window_class: CASCADIA_HOSTING_WINDOW_CLASS
+    window_placement:
+    - 0
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1180
+      - 117
+      - -51
+      - 752
+  985876:
+    window_title: D:\Users\JK\Documents\WWW\Downloaded\Grzyby
+    window_class: CabinetWClass
+    window_placement:
+    - 0
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - -1157
+      - 178
+      - -54
+      - 882
+  3936222:
+    window_title: C:\Program Files (x86)\GnuWin32\bin
+    window_class: CabinetWClass
+    window_placement:
+    - 0
+    - 1
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 824
+      - 263
+      - 1927
+      - 967
+  853192:
+    window_title: D:\Users\JK\Downloads
+    window_class: CabinetWClass
+    window_placement:
+    - 0
+    - 1
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1219
+      - 270
+      - -116
+      - 974
+  7274920:
+    window_title: wget.pdf - SumatraPDF
+    window_class: SUMATRA_PDF_FRAME
+    window_placement:
+    - 2
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 596
+      - -17
+      - 1430
+      - 1007
+  200706:
+    window_title: Panel sterowania\Programy\Programy i funkcje
+    window_class: CabinetWClass
+    window_placement:
+    - 0
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 222
+      - 110
+      - 1361
+      - 865
+  201858:
+    window_title: "Panel sterowania\\Sie\u0107 i Internet\\Centrum sieci i udost\u0119\
+      pniania"
+    window_class: CabinetWClass
+    window_placement:
+    - 0
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 497
+      - 108
+      - 1636
+      - 863
+  1312342:
+    window_title: Telegram (19209)
+    window_class: Qt5154QWindowIcon
+    window_placement:
+    - 2
+    - 3
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1272
+      - 54
+      - 8
+      - 1023
+  658310:
+    window_title: Kalkulator
+    window_class: ApplicationFrameWindow
+    window_placement:
+    - 0
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - 260
+      - 244
+      - 1292
+      - 1012
+  262866:
+    window_title: Pomocnik konsoli Xbox
+    window_class: ApplicationFrameWindow
+    window_placement:
+    - 0
+    - 1
+    - - -1
+      - -1
+    - - -1
+      - -1
+    - - 47
+      - 36
+      - 1263
+      - 977
+  176427734:
+    window_title: WinBox (64bit) v3.31
+    window_class: routeros_connect
+    window_placement:
+    - 0
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - 0
+      - 0
+      - 669
+      - 668
+  4853108:
+    window_title: 20220907_190646.MOV - Avidemux
+    window_class: Qt5QWindowIcon
+    window_placement:
+    - 0
+    - 2
+    - - -32000
+      - -32000
+    - - -1
+      - -1
+    - - -1243
+      - 123
+      - -52
+      - 925

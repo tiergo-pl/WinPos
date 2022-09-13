@@ -14,10 +14,10 @@ from ext_library import doNothing
 
 def exit_handler():
     print('Exiting app')
-    file = open(filename, 'w+')
-    #file.write('monitor count = ')
-    #file.write(str(monitorCount)+'\n')
-    file.write(str(windowsPos))
+    # file = open(yaml_filename, 'w+')
+    # #file.write('monitor count = ')
+    # #file.write(str(monitorCount)+'\n')
+    # file.write(str(windowsPos))
     doNothing()
 
 
@@ -44,34 +44,42 @@ def addWindowHandleToList(hwnd, wndList: list):
 
 
 def retrieveWindowPosition(windowHandle, windowPlacement):
-    windowHandle = 0xf095c
-    windowPlacement = (0, 1, (-32000, -32000), (-1, -1), (305, 95, 1693, 941))
+    # windowHandle = 0xf095c
+    # windowPlacement = (0, 1, (-32000, -32000), (-1, -1), (305, 95, 1693, 941))
     win32gui.ShowWindow(windowHandle, 1)
     win32gui.SetWindowPlacement(windowHandle, windowPlacement)
 
 
 atexit.register(exit_handler)
 
-filename = 'backToMon.settings'
+# filename = 'backToMon.settings'
 yaml_filename = 'back_to_mon.yaml'
-file = open(filename,'r')
+# file = open(filename,'r')
 windowsPos={}
-windowsPosStr = file.read()
-file.close()
-windowsPos=ast.literal_eval(windowsPosStr)
-print(windowsPos)
+# windowsPosStr = file.read()
+# file.close()
+# windowsPos=ast.literal_eval(windowsPosStr)
+# with open(yaml_filename,'r') as stream:
+#     windowsPos = yaml.safe_load(stream)
+print(windowsPos,'\n')
 sleep(5)
 while 1:
     monitorCount = win32api.GetSystemMetrics(80)
+    desktop_resolution = {'width': win32api.GetSystemMetrics(78), 'height': win32api.GetSystemMetrics(79)}
     windowsList = []
     win32gui.EnumWindows(addWindowHandleToList, windowsList)
     winPos={}
     for winHandle in windowsList:
-        winPos[winHandle]= win32gui.GetWindowPlacement(winHandle)
-    windowsPos.update({monitorCount: winPos})
-    with open(yaml_filename,'w') as yaml_file:
-        yaml.dump(windowsPos, yaml_file)
+        winPos[winHandle] = {'window_title': win32gui.GetWindowText(winHandle),
+                            'window_class': win32gui.GetClassName(winHandle),
+                            'window_placement': win32gui.GetWindowPlacement(winHandle)}
+    windowsPos.update({'monitorCount': monitorCount})
+    windowsPos.update({'desktop_resolution': desktop_resolution})
+    windowsPos.update({"windows_positions": winPos})
+    with open(yaml_filename, 'w') as yaml_file:
+        yaml.safe_dump(windowsPos, yaml_file, sort_keys=False)
     print("Number of monitors", monitorCount)
     print(windowsPos)
     print("-----------------------------------------------------------")
+    break
     sleep(5)
